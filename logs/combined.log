@@ -1,0 +1,206 @@
+2024-11-21 19:21:39 [INFO]: Servidor corriendo en http://localhost:3000
+2024-11-21 19:21:39 [INFO]: Conectado a la base de datos MySQL
+2024-11-21 19:25:04 [INFO]: POST /login
+2024-11-21 19:25:04 [WARN]: Intento de inicio de sesión fallido para el correo: jajajaja@gmaiol
+2024-11-21 19:25:31 [INFO]: POST /login
+2024-11-21 19:25:31 [WARN]: Inicio de sesión fallido: contraseña incorrecta para el correo: admin@aguaspeninsulares.com
+2024-11-21 19:25:50 [INFO]: POST /login
+2024-11-21 19:25:50 [WARN]: Inicio de sesión fallido: contraseña incorrecta para el correo: admin@aguaspeninsulares.com
+2024-11-21 19:26:16 [INFO]: POST /login
+2024-11-21 19:26:16 [WARN]: Inicio de sesión fallido: contraseña incorrecta para el correo: cliente1@example.com
+2024-11-21 19:27:33 [INFO]: POST /login
+2024-11-21 19:27:33 [WARN]: Inicio de sesión fallido: contraseña incorrecta para el correo: cliente1@example.com
+2024-11-21 19:27:39 [INFO]: POST /login
+2024-11-21 19:27:40 [WARN]: Inicio de sesión fallido: contraseña incorrecta para el correo: cliente2@example.com
+2024-11-21 19:27:54 [INFO]: POST /login
+2024-11-21 19:27:54 [WARN]: Inicio de sesión fallido: contraseña incorrecta para el correo: cliente4@example.com
+2024-11-21 19:31:00 [INFO]: Servidor corriendo en http://localhost:3000
+2024-11-21 19:31:00 [INFO]: Conectado a la base de datos MySQL
+2024-11-27 00:22:48 [INFO]: Servidor corriendo en http://localhost:3000
+2024-11-27 00:22:48 [INFO]: Conectado a la base de datos MySQL
+2024-11-27 00:23:33 [INFO]: POST /register
+2024-11-27 00:23:33 [INFO]: Usuario registrado: yo@gmail.com
+2024-11-27 00:23:48 [INFO]: POST /register
+2024-11-27 00:23:48 [ERROR]: Error al registrar usuario: Duplicate entry 'yo@gmail.com' for key 'correo'
+2024-11-27 00:23:51 [INFO]: GET /productos
+2024-11-27 00:23:51 [WARN]: Acceso sin token proporcionado.
+2024-11-27 00:24:16 [INFO]: POST /login
+2024-11-27 00:24:16 [INFO]: Inicio de sesión exitoso para el usuario: yo@gmail.com
+2024-11-27 00:25:13 [INFO]: POST /login
+2024-11-27 00:25:13 [WARN]: Inicio de sesión fallido: contraseña incorrecta para el correo: admin@aguaspeninsulares.com
+2024-11-27 00:25:49 [INFO]: POST /login
+2024-11-27 00:25:49 [WARN]: Inicio de sesión fallido: contraseña incorrecta para el correo: admin@aguaspeninsulares.com
+2024-11-27 00:26:37 [INFO]: POST /login
+2024-11-27 00:26:37 [WARN]: Inicio de sesión fallido: contraseña incorrecta para el correo: admin@aguaspeninsulares.com
+2024-11-27 00:26:49 [INFO]: POST /login
+2024-11-27 00:26:49 [WARN]: Inicio de sesión fallido: contraseña incorrecta para el correo: admin@aguaspeninsulares.com
+2024-11-27 00:27:13 [INFO]: POST /login
+2024-11-27 00:27:13 [WARN]: Inicio de sesión fallido: contraseña incorrecta para el correo: admin@aguaspeninsulares.com
+2024-11-27 00:29:05 [INFO]: POST /login
+2024-11-27 00:29:05 [WARN]: Inicio de sesión fallido: contraseña incorrecta para el correo: admin@aguaspeninsulares.com
+2024-11-27 00:29:34 [INFO]: POST /login
+2024-11-27 00:29:34 [WARN]: Inicio de sesión fallido: contraseña incorrecta para el correo: cliente4@example.com
+2024-11-27 00:30:52 [INFO]: POST /login
+2024-11-27 00:30:53 [INFO]: Inicio de sesión exitoso para el usuario: yo@gmail.com
+2024-11-27 00:36:16 [INFO]: GET /productos
+2024-11-27 00:36:16 [WARN]: Acceso sin token proporcionado.
+2024-11-27 00:36:31 [INFO]: GET /promociones
+2024-11-27 00:38:05 [INFO]: GET /productos
+2024-11-27 00:38:05 [WARN]: Acceso sin token proporcionado.
+2024-11-27 00:38:18 [INFO]: GET /productos
+2024-11-27 00:38:18 [WARN]: Acceso sin token proporcionado.
+2024-11-27 00:38:20 [INFO]: GET /promociones
+2024-11-27 00:38:33 [INFO]: GET /promociones
+2024-11-27 00:38:51 [INFO]: GET /promociones
+2024-11-27 00:41:22 [INFO]: GET /perfil/0
+2024-11-27 00:41:27 [INFO]: GET /productos
+2024-11-27 00:41:27 [WARN]: Acceso sin token proporcionado.
+2024-11-27 00:41:30 [INFO]: GET /productos
+2024-11-27 00:41:30 [WARN]: Acceso sin token proporcionado.
+2024-11-27 00:41:38 [INFO]: GET /promociones
+2024-11-27 00:41:49 [INFO]: GET /productos
+2024-11-27 00:41:49 [WARN]: Acceso sin token proporcionado.
+2024-11-27 00:41:58 [INFO]: GET /productos
+2024-11-27 00:41:58 [WARN]: Acceso sin token proporcionado.
+2024-11-27 00:42:43 [INFO]: POST /register
+2024-11-27 00:42:43 [INFO]: Usuario registrado: jean@gmail.com
+2024-11-27 00:47:08 [INFO]: GET /perfil/0
+2024-11-27 00:49:47 [INFO]: GET /perfil/0
+2024-11-27 00:50:03 [INFO]: GET /perfil/0
+2024-11-27 00:52:36 [INFO]: POST /login
+2024-11-27 00:52:36 [INFO]: Inicio de sesión exitoso para el usuario: jean@gmail.com
+2024-11-27 00:52:52 [INFO]: GET /perfil/0
+2024-11-27 00:53:08 [INFO]: GET /productos
+2024-11-27 00:53:08 [WARN]: Acceso sin token proporcionado.
+2024-11-27 00:55:17 [INFO]: GET /productos
+2024-11-27 00:55:17 [WARN]: Acceso sin token proporcionado.
+2024-11-27 01:00:30 [INFO]: GET /perfil/0
+2024-11-27 01:00:35 [INFO]: PUT /perfil/0
+2024-11-27 01:06:04 [INFO]: GET /perfil/0
+2024-11-27 01:07:21 [INFO]: GET /productos
+2024-11-27 01:07:21 [WARN]: Acceso sin token proporcionado.
+2024-11-27 01:07:55 [INFO]: POST /register
+2024-11-27 01:07:55 [INFO]: Usuario registrado: jeana@gmailcom
+2024-11-27 01:11:08 [INFO]: POST /login
+2024-11-27 01:11:08 [INFO]: Inicio de sesión exitoso para el usuario: jeana@gmailcom
+2024-11-27 01:11:27 [INFO]: GET /perfil/0
+2024-11-27 01:11:35 [INFO]: GET /perfil/0
+2024-11-27 01:14:10 [INFO]: GET /perfil/0
+2024-11-27 01:14:18 [INFO]: GET /productos
+2024-11-27 01:14:18 [WARN]: Acceso sin token proporcionado.
+2024-11-27 01:15:03 [INFO]: POST /register
+2024-11-27 01:15:03 [INFO]: Usuario registrado: k@gmail.com
+2024-11-27 01:16:34 [INFO]: POST /register
+2024-11-27 01:16:34 [ERROR]: Error al registrar usuario: Duplicate entry 'k@gmail.com' for key 'correo'
+2024-11-27 01:26:01 [INFO]: POST /register
+2024-11-27 01:26:02 [INFO]: Usuario registrado: m@gmail.com
+2024-11-27 01:31:41 [INFO]: POST /register
+2024-11-27 01:31:41 [INFO]: Usuario registrado: d@gmail.com
+2024-11-27 01:46:32 [INFO]: POST /register
+2024-11-27 01:46:32 [INFO]: Usuario registrado: juan@example.com
+2024-11-27 01:47:16 [INFO]: POST /register
+2024-11-27 01:47:16 [INFO]: Usuario registrado: e@gmail.com
+2024-11-27 01:47:57 [INFO]: POST /register
+2024-11-27 01:47:57 [ERROR]: Error al registrar usuario: Duplicate entry 'e@gmail.com' for key 'correo'
+2024-11-27 01:48:05 [INFO]: POST /register
+2024-11-27 01:48:05 [INFO]: Usuario registrado: w@gmail.com
+2024-11-27 01:50:09 [INFO]: POST /register
+2024-11-27 01:50:09 [INFO]: Usuario registrado: q@gmail.com
+2024-11-27 01:52:22 [INFO]: POST /register
+2024-11-27 01:52:23 [INFO]: Usuario registrado: z@gmail.com
+2024-11-27 01:53:48 [INFO]: POST /register
+2024-11-27 01:53:48 [INFO]: Usuario registrado: y123456
+2024-11-27 01:53:50 [INFO]: POST /register
+2024-11-27 01:53:50 [ERROR]: Error al registrar usuario: Duplicate entry 'y123456' for key 'correo'
+2024-11-27 01:57:21 [INFO]: POST /login
+2024-11-27 01:57:21 [INFO]: Inicio de sesión exitoso para el usuario: juan@example.com
+2024-11-27 01:57:28 [INFO]: GET /productos
+2024-11-27 01:57:28 [WARN]: Acceso sin token proporcionado.
+2024-11-27 01:58:06 [INFO]: GET /productos
+2024-11-27 01:58:06 [WARN]: Acceso sin token proporcionado.
+2024-11-27 02:14:46 [INFO]: GET /productos
+2024-11-27 02:14:46 [WARN]: Acceso sin token proporcionado.
+2024-11-27 02:14:59 [INFO]: GET /productos
+2024-11-27 02:14:59 [WARN]: Acceso sin token proporcionado.
+2024-11-27 02:15:45 [INFO]: GET /productos
+2024-11-27 02:15:45 [WARN]: Acceso sin token proporcionado.
+2024-11-27 02:16:35 [INFO]: POST /productos
+2024-11-27 02:16:35 [WARN]: Acceso sin token proporcionado.
+2024-11-27 02:16:55 [INFO]: POST /productos
+2024-11-27 02:16:55 [WARN]: Acceso sin token proporcionado.
+2024-11-27 02:18:18 [INFO]: POST /productos
+2024-11-27 02:18:18 [WARN]: Acceso sin token proporcionado.
+2024-11-27 02:19:42 [INFO]: GET /productos
+2024-11-27 02:19:42 [WARN]: Acceso sin token proporcionado.
+2024-11-27 02:19:51 [INFO]: GET /productos
+2024-11-27 02:19:51 [WARN]: Acceso sin token proporcionado.
+2024-11-27 02:23:32 [INFO]: GET /productos
+2024-11-27 02:23:32 [WARN]: Acceso sin token proporcionado.
+2024-11-27 02:24:23 [INFO]: GET /productos
+2024-11-27 02:24:23 [WARN]: Acceso sin token proporcionado.
+2024-11-27 02:24:26 [INFO]: GET /productos
+2024-11-27 02:24:26 [WARN]: Acceso sin token proporcionado.
+2024-11-27 02:24:52 [INFO]: POST /login
+2024-11-27 02:24:53 [INFO]: Inicio de sesión exitoso para el usuario: juan@example.com
+2024-11-27 02:25:00 [INFO]: GET /productos
+2024-11-27 02:25:00 [WARN]: Acceso sin token proporcionado.
+2024-11-27 02:25:43 [INFO]: GET /productos
+2024-11-27 02:25:43 [WARN]: Acceso sin token proporcionado.
+2024-11-27 02:25:53 [INFO]: GET /productos
+2024-11-27 02:25:53 [WARN]: Acceso sin token proporcionado.
+2024-11-27 02:36:21 [INFO]: GET /productos
+2024-11-27 02:36:21 [WARN]: Acceso sin token proporcionado.
+2024-11-27 02:36:31 [INFO]: GET /register
+2024-11-27 02:38:41 [INFO]: POST /usuarios/login
+2024-11-27 02:44:09 [INFO]: POST /usuarios/register
+2024-11-27 02:44:26 [INFO]: POST /register
+2024-11-27 02:44:26 [INFO]: Usuario registrado: uan@ejemplo.com
+2024-11-27 02:45:02 [INFO]: GET /register
+2024-11-27 02:48:22 [INFO]: GET /register
+2024-11-27 02:48:34 [INFO]: GET /register
+2024-11-27 02:49:07 [INFO]: GET /productos
+2024-11-27 02:49:07 [WARN]: Acceso sin token proporcionado.
+2024-11-27 02:51:37 [INFO]: GET /productos
+2024-11-27 02:51:37 [WARN]: Acceso sin token proporcionado.
+2024-11-27 02:53:04 [INFO]: Servidor corriendo en http://localhost:3000
+2024-11-27 02:53:04 [INFO]: Conectado a la base de datos MySQL
+2024-11-27 07:16:38 [INFO]: Servidor corriendo en http://localhost:3000
+2024-11-27 07:16:38 [INFO]: Conectado a la base de datos MySQL
+2024-11-27 07:17:16 [INFO]: Usuario registrado con éxito: quan@example.com
+2024-11-27 07:17:46 [INFO]: Usuario logueado con éxito: quan@example.com
+2024-11-27 07:20:31 [INFO]: Servidor corriendo en http://localhost:3000
+2024-11-27 07:20:31 [INFO]: Conectado a la base de datos MySQL
+2024-11-27 07:33:50 [INFO]: Servidor corriendo en http://localhost:3000
+2024-11-27 07:33:50 [INFO]: Conectado a la base de datos MySQL
+2024-11-27 07:40:55 [INFO]: Servidor corriendo en http://localhost:3000
+2024-11-27 07:40:55 [INFO]: Conectado a la base de datos MySQL
+2024-11-27 07:48:52 [INFO]: Usuario logueado con éxito: quan@example.com
+2024-11-27 07:58:10 [INFO]: Servidor corriendo en http://localhost:3000
+2024-11-27 07:58:10 [INFO]: Conectado a la base de datos MySQL
+2024-11-27 07:59:06 [INFO]: Usuario logueado con éxito: quan@example.com
+2024-11-27 07:59:38 [INFO]: Usuario registrado con éxito: q@gmail.com
+2024-11-27 08:01:47 [INFO]: Usuario logueado con éxito: quan@example.com
+2024-11-27 08:04:30 [WARN]: Contraseña incorrecta para el usuario: admin@aguaspeninsulares.com
+2024-11-27 08:04:44 [WARN]: Contraseña incorrecta para el usuario: admin@aguaspeninsulares.com
+2024-11-27 08:05:58 [INFO]: Servidor corriendo en http://localhost:3000
+2024-11-27 08:05:58 [INFO]: Conectado a la base de datos MySQL
+2024-11-27 08:06:08 [WARN]: Contraseña incorrecta para el usuario: admin@aguaspeninsulares.com
+2024-11-27 08:06:50 [WARN]: Contraseña incorrecta para el usuario: admin@aguaspeninsulares.com
+2024-11-27 08:07:00 [WARN]: Contraseña incorrecta para el usuario: admin@aguaspeninsulares.com
+2024-11-27 08:45:11 [WARN]: Intento de agregar producto con campos incompletos.
+2024-11-27 08:54:08 [INFO]: Usuario logueado con éxito: juan@example.com
+2024-11-27 09:03:59 [INFO]: Servidor corriendo en http://localhost:3000
+2024-11-27 09:03:59 [INFO]: Conectado a la base de datos MySQL
+2024-11-27 09:06:18 [INFO]: Usuario registrado con éxito: d@gmail.com
+2024-11-27 09:06:52 [INFO]: Usuario logueado con éxito: d@gmail.com
+2024-11-27 09:10:35 [INFO]: Servidor corriendo en http://localhost:3000
+2024-11-27 09:10:35 [INFO]: Conectado a la base de datos MySQL
+2024-11-27 09:10:51 [ERROR]: Error al obtener productos: You have tried to call .then(), .catch(), or invoked await on the result of query that is not a promise, which is a programming error. Try calling con.promise().query(), or require('mysql2/promise') instead of 'mysql2' for a promise-compatible version of the query interface. To learn how to use async/await or Promises check out documentation at https://sidorares.github.io/node-mysql2/docs#using-promise-wrapper, or the mysql2 documentation at https://sidorares.github.io/node-mysql2/docs/documentation/promise-wrapper
+2024-11-27 09:11:26 [ERROR]: Error al obtener productos: You have tried to call .then(), .catch(), or invoked await on the result of query that is not a promise, which is a programming error. Try calling con.promise().query(), or require('mysql2/promise') instead of 'mysql2' for a promise-compatible version of the query interface. To learn how to use async/await or Promises check out documentation at https://sidorares.github.io/node-mysql2/docs#using-promise-wrapper, or the mysql2 documentation at https://sidorares.github.io/node-mysql2/docs/documentation/promise-wrapper
+2024-11-27 09:17:03 [INFO]: Servidor corriendo en http://localhost:3000
+2024-11-27 09:17:03 [INFO]: Conectado a la base de datos MySQL
+2024-11-27 09:21:10 [INFO]: Servidor corriendo en http://localhost:3000
+2024-11-27 09:21:10 [INFO]: Conectado a la base de datos MySQL
+2024-11-27 09:32:50 [WARN]: Intento de agregar producto con campos incompletos.
+2024-11-27 10:35:09 [INFO]: Usuario registrado con éxito: k@gmail.com
+2024-11-27 10:35:42 [INFO]: Usuario logueado con éxito: k@gmail.com
